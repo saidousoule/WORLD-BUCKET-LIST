@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"AAAAA,QAAQC,IAAI","sources":["webpack://world-bucket-list/./src/index.js"],"sourcesContent":["console.log(\"coucou\");"],"names":["console","log"],"sourceRoot":""}
